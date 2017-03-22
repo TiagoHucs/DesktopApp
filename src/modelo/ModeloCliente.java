@@ -82,15 +82,4 @@ public class ModeloCliente {
 	public void setVencimento(String vencimento) {
 		this.vencimento = vencimento;
 	}
-
-	private String pesquisa;
-    
-
-    /**
-     * @return the pesquisa
-     */
-    public String getPesquisa() {
-        return pesquisa;
-    }
-
 }
